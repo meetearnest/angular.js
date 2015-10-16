@@ -1,5 +1,5 @@
 {
-  "name": "angularjs",
+  "name": "@meetearnest/angularjs",
   "branchVersion": "^1.4.0-beta.0",
   "branchPattern": "1.4.*",
   "repository": {
